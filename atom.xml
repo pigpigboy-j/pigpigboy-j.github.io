@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pigpigboy-j.github.io</id>
-    <title>jwh</title>
-    <updated>2020-04-16T23:31:42.254Z</updated>
+    <title>焦文辉</title>
+    <updated>2020-04-20T05:26:31.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pigpigboy-j.github.io"/>
     <link rel="self" href="https://pigpigboy-j.github.io/atom.xml"/>
-    <subtitle>何不尝试下</subtitle>
+    <subtitle>Welcome!</subtitle>
     <logo>https://pigpigboy-j.github.io/images/avatar.png</logo>
     <icon>https://pigpigboy-j.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, jwh</rights>
+    <rights>All rights reserved 2020, 焦文辉</rights>
     <entry>
         <title type="html"><![CDATA[焦文辉的第一个网站]]></title>
         <id>https://pigpigboy-j.github.io/post/jiao-wen-hui-de-di-yi-ge-wang-zhan/</id>
         <link href="https://pigpigboy-j.github.io/post/jiao-wen-hui-de-di-yi-ge-wang-zhan/">
         </link>
         <updated>2020-04-16T23:20:04.000Z</updated>
-        <content type="html"><![CDATA[<p>哈哈哈<br>
+        <content type="html"><![CDATA[<!-- more -->
+<p>哈哈哈<br>
 真的太强了！！！<br>
 为啥不显示？？🤔</p>
 ]]></content>
